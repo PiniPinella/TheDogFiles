@@ -1,0 +1,20 @@
+Breed,type,score,popularity ranking,size,intelligence,congential ailments,score for kids,size.1,$LIFETIME COST,INTELLIGENCE RANK,INTELLIGENCE %,LONGEVITY(YEARS),NUMBER OF GENETIC AILMENTS,GENETIC AILMENTS,PURCHASE PRICE,FOOD COSTS PER YEAR,GROOMING FREQUNCY,SUITABILITY FOR CHILDREN,origin_de
+English Cocker Spaniel,sporting,3.33,51,2,Excellent,none,4.7,medium,"$18,993 ",18,82%,11.66,0,none,$800 ,$324 ,Once a week,1,England
+Cocker Spaniel,sporting,3.3,27,1,Excellent,"eye, skin problems",4.67,small,"$24,330 ",20,79%,12.5,2,"eye, skin problems",$465 ,$674 ,Once a week,1,Vereinigtes Königreich
+English Springer Spaniel,sporting,3.09,29,2,Excellent,"hip, eye, skin problems; enzyme deficiency",4.47,medium,"$21,946 ",13,86%,12.54,4,"hip, eye, skin problems; enzyme deficiency",$615 ,$466 ,Once a week,1,England
+Pointer,sporting,3.03,74,3,Average,hip problems,4.4,large,"$24,445 ",43,49%,12.42,1,hip problems,$294 ,$710 ,Once a week,1,England
+Bichon Frise,non-sporting,3.03,34,1,Average,none,4.28,small,"$19,735 ",45,45%,12.21,0,none,$693 ,$324 ,Daily,1,Belgien/Frankreich
+Samoyed,working,2.8,55,2,Above average,hip problems,4.18,medium,"$25,352 ",33,68%,12.44,1,hip problems,"$1,162 ",$710 ,Once a week,1,Russland
+Papillon,toy,3.26,33,1,Brightest,"cataracts, hair loss, heart, eye, blood clotting disorders",4.13,small,"$21,001 ",8,92%,13.0,5,"cataracts, hair loss, heart, eye, blood clotting disorders",$740 ,$324 ,Once a week,2,Belgien/Frankreich
+Dalmatian,non-sporting,2.57,57,2,Above average,"deafness, urinary stones",3.95,medium,"$19,886 ",39,55%,11.27,2,"deafness, urinary stones",$695 ,$466 ,Once a week,1,Kroatien
+Basset Hound,hound,2.54,36,1,Lowest,"blood, skin disorders",3.92,small,"$18,328 ",71,11%,11.43,2,"blood, skin disorders",$490 ,$324 ,Once a week,1,Frankreich
+Poodle,non-sporting,3.04,8,2,Brightest,"fatal stomach bloat, skin disorder",3.92,medium,"$21,237 ",2,99%,11.95,2,"fatal stomach bloat, skin disorder",$900 ,$466 ,Once a week,2,Deutschland/Frankreich
+Pomeranian,toy,2.93,17,1,Excellent,heart problems,3.81,small,"$15,792 ",23,77%,9.67,1,heart problems,$670 ,$324 ,Once a week,2,Deutschland/Polen
+Chihuahua,toy,3.15,14,1,Fair,knee problems,3.53,small,"$26,250 ",67,16%,16.5,1,knee problems,$588 ,$324 ,Once a week,3,Mexiko
+English Toy Spaniel,toy,2.59,80,1,Average,none,3.47,small,"$17,521 ",45,45%,10.1,0,none,$925 ,$405 ,Once a week,2,England
+Boxer,working,1.83,7,2,Average,"eye, nerve, heart problems",3.21,medium,"$15,746 ",48,39%,8.81,4,"eye, nerve, heart problems",$700 ,$466 ,Once a week,1,Deutschland
+Maltese,toy,2.93,23,1,Fair,heart problems,3.18,small,"$19,084 ",59,25%,12.25,1,heart problem,$650 ,$270 ,Daily,3,Malta
+Mastiff,working,1.57,28,3,Lowest,"hip, heart problems",2.94,large,"$13,581 ",72,10%,6.5,2,"hip, heart problems",$900 ,$701 ,Once a week,1,Vereinigtes Königreich
+Kerry Blue Terrier,terrier,2.13,78,2,Above average,heart problems,2.88,medium,"$17,240 ",35,61%,9.4,1,heart problems,"$1,200 ",$466 ,Daily,2,Irland
+Saint Bernard,working,1.42,43,3,Fair,"heart, hip disorders, fatal stomach bloat",2.67,large,"$20,022 ",65,18%,7.78,3,"heart, hip disorders, fatal stomach bloat",$875 ,"$1,217 ",Daily,1,Schweiz
+Akita,working,1.95,41,3,Average,hip problems,2.33,large,"$20,994 ",54,31%,10.16,1,hip problems,"$1,202 ",$710 ,Once a week,3,Japan
