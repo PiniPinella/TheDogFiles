@@ -4,7 +4,7 @@
 *Ein Datenanalyse-Projekt im Rahmen der Ausbildung zum Data Analyst.*  
 
 ## 📌 Projektziel  
-Exploration und Visualisierung des Datensatzes [Dog Breeds by Personality and Size](https://www.kaggle.com/datasets/frtgnn/dog-breeds-by-personality-and-size) mit Python. Ziel ist es, Zusammenhänge zwischen Rasse, Persönlichkeitsmerkmalen und Größe zu identifizieren und in 10 informativen Grafiken darzustellen.  
+Exploration und Visualisierung des Datensatzes [Dog Breeds Ranking - Best to Worst](https://www.kaggle.com/datasets/jainaru/dog-breeds-ranking-best-to-worst4) mit Python. Ziel ist es, Zusammenhänge zwischen Rasse-Ranking, Persönlichkeitsmerkmalen und Größe zu identifizieren und in 10 informativen Grafiken darzustellen.  
 
 ## 📂 Projektstruktur  
 ```bash
@@ -22,6 +22,7 @@ project/
 - **Präsentation**: Jupyter Notebook/Dashboard oder PowerPoint  
 
 ## 📊 Geplante Analysen (Beispiele)  
-- Verteilung der Hunderassen nach Größe (Small/Medium/Large)  
-- Korrelation zwischen Persönlichkeitsmerkmalen (z. B. "Energy Level" und "Trainability")  
-- Top-5-Rassen pro Kategorie (z. B. "Freundlichste", "Anspruchsvollste")  
+- Verteilung der Hunderassen nach Beliebtheits-Ranking
+- Korrelation zwischen Ranking und Merkmalen wie "Energy Level" oder "Trainability"
+- Top-5-Rassen pro Kategorie (z. B. "Beliebteste", "Am besten trainierbare")
+- Vergleich von US- und europäischen Rankings (AKC vs. VDH/FCI)
