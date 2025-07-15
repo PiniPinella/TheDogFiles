@@ -17,7 +17,7 @@ Labrador Retriever,sporting,2.97,1,2,Brightest,"elbows, hips, eyes",4.35,medium,
 Bichon Frise,non-sporting,3.03,34,1,Average,none,4.28,small,"$19,735 ",45,45%,12.21,0,none,$693 ,$324 ,Daily,1,Belgien/Frankreich,Bichon Frisé,Begleithund
 Irish Setter,sporting,2.84,56,3,Above average,"hip, eye problems",4.21,large,"$20,323 ",35,61%,11.63,2,"hip, eye problems",$525 ,$466 ,Once a week,1,Irland,Irischer Setter,Jagdhund
 Samoyed,working,2.8,55,2,Above average,hip problems,4.18,medium,"$25,352 ",33,68%,12.44,1,hip problems,"$1,162 ",$710 ,Once a week,1,Russland,Samojede,Gebrauchshund
-Shih Tzu,toy,2.93,11,1,Lowest,eye problems,4.18,small,"$21,152 ",70,13%,13.2,1,eye problems,$583 ,$324 ,Daily,1,Volksrepublik China,Shih Tzu,Zwerghund
+Shih Tzu,toy,2.93,11,1,Lowest,eye problems,4.18,small,"$21,152 ",70,13%,13.2,1,eye problems,$583 ,$324 ,Daily,1,China,Shih Tzu,Zwerghund
 Golden Retriever,sporting,2.8,4,2,Brightest,"elbows, hips, eyes, heart ",4.17,medium,"$21,447 ",4,97%,12.04,4,"elbows, hips, eyes, heart ",$958 ,$466 ,Once a week,1,Schottland/Vereinigtes Königreich,Golden Retriever,Jagdhund
 Chesapeake Bay Retriever,sporting,2.78,40,3,Above average,hip problems,4.16,large,"$16,697 ",27,75%,9.48,1,hip problems,$522 ,$466 ,Once a week,1,Vereinigte Staaten,Chesapeake Bay Retriever,Jagdhund
 Papillon,toy,3.26,33,1,Brightest,"cataracts, hair loss, heart, eye, blood clotting disorders",4.13,small,"$21,001 ",8,92%,13.0,5,"cataracts, hair loss, heart, eye, blood clotting disorders",$740 ,$324 ,Once a week,2,Belgien/Frankreich,Papillon,Zwerghund
@@ -76,13 +76,13 @@ Mastiff,working,1.57,28,3,Lowest,"hip, heart problems",2.94,large,"$13,581 ",72,
 Great Dane,working,1.53,19,3,Average,"heart, spinal, hip problems, fatal stomach bloat",2.91,large,"$14,662 ",48,39%,6.96,4,"heart, spinal, hip problems, fatal stomach bloat","$1,040 ",$710 ,Once a week,1,Deutschland,Deutsche Dogge,Gebrauchshund
 Kerry Blue Terrier,terrier,2.13,78,2,Above average,heart problems,2.88,medium,"$17,240 ",35,61%,9.4,1,heart problems,"$1,200 ",$466 ,Daily,2,Irland,Kerry Blue Terrier,Terrier
 Italian Greyhound,toy,2.49,53,1,Fair,none,2.86,small,"$16,463 ",60,24%,10.02,0,none,$800 ,$324 ,Once a week,3,Italien,Italienisches Windspiel,Zwerghund
-Pekingese,toy,2.05,52,1,Lowest,knee problems,2.8,small,"$20,565 ",74,8%,11.56,1,knee problems,$885 ,$466 ,Daily,2,Volksrepublik China,Pekinese,Zwerghund
+Pekingese,toy,2.05,52,1,Lowest,knee problems,2.8,small,"$20,565 ",74,8%,11.56,1,knee problems,$885 ,$466 ,Daily,2,China,Pekinese,Zwerghund
 Rhodesian Ridgeback,hound,1.91,38,3,Average,"birth defects, hip problems",2.78,large,"$16,530 ",52,33%,9.1,2,"birth defects, hip problems",$995 ,$466 ,Once a week,2,Rhodesien,Rhodesian Ridgeback,Laufhund
 Bull Terrier,terrier,1.85,44,2,Fair,"heart problems, zinc metabolism disorder",2.72,medium,"$18,490 ",66,17%,10.21,2,"heart problems, zinc metabolism disorder","$1,085 ",$466 ,Once a week,2,England,Bullterrier,Terrier
 Saint Bernard,working,1.42,43,3,Fair,"heart, hip disorders, fatal stomach bloat",2.67,large,"$20,022 ",65,18%,7.78,3,"heart, hip disorders, fatal stomach bloat",$875 ,"$1,217 ",Daily,1,Schweiz,Bernhardiner,Gebrauchshund
 Borzoi,hound,1.89,71,3,Lowest,none,2.64,large,"$16,176 ",76,6%,9.08,0,none,$675 ,$466 ,Daily,2,Russland,Russischer Windhund (Borzoi),Laufhund
 Alaskan Malamute,working,1.82,47,3,Average,"hip problems, dwarfism",2.57,large,"$21,986 ",50,36%,10.67,2,"hip problems, dwarfism","$1,210 ",$710 ,Daily,2,Alaska,Alaskan Malamute,Gebrauchshund
 Bloodhound,hound,1.66,42,3,Lowest,"fatal stomach bloat, skin problems",2.54,large,"$13,824 ",75,7%,6.75,2,"fatal stomach bloat, skin problems",$608 ,$710 ,Once a week,2,Belgien,Bluthund,Laufhund
-Chow Chow,non-sporting,1.76,54,2,Lowest,"eye, hip problems",2.51,medium,"$15,898 ",77,5%,9.01,2,"eye, hip problems",$515 ,$466 ,Daily,2,Volksrepublik China,Chow-Chow,Begleithund
+Chow Chow,non-sporting,1.76,54,2,Lowest,"eye, hip problems",2.51,medium,"$15,898 ",77,5%,9.01,2,"eye, hip problems",$515 ,$466 ,Daily,2,China,Chow-Chow,Begleithund
 Akita,working,1.95,41,3,Average,hip problems,2.33,large,"$20,994 ",54,31%,10.16,1,hip problems,"$1,202 ",$710 ,Once a week,3,Japan,Akita,Gebrauchshund
 Bulldog,non-sporting,0.99,6,2,Lowest,"breathing, hip, heart problems, 'dry eye'",1.86,medium,"$13,479 ",78,3%,6.29,5,"breathing, hip, heart problems, 'dry eye'","$2,680 ",$466 ,Once a week,2,Vereinigtes Königreich,Englische Bulldogge,Begleithund
